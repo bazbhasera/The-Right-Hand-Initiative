@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Right Hand Outreach Initiative</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #2c3e50; color: #fff; padding: 1rem 0; text-align: center; }
+    section { padding: 2rem; background: #fff; margin: 1rem auto; max-width: 900px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h2 { color: #2c3e50; }
+    footer { background: #2c3e50; color: white; text-align: center; padding: 1rem; }
+    nav { margin-top: 1rem; }
+    nav a { color: #3498db; margin: 0 1rem; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Right Hand Outreach Initiative</h1>
+    <p>Raising Leaders with Compassion</p>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>The Right Hand Outreach Initiative is a Christian, non-profit organisation committed to shaping a better tomorrow by investing in the character development of school-aged children today. Founded by Angel Banda, an alumnus of Great Hood Academy, this initiative aims to bring real, positive change to communities by nurturing future leaders grounded in Christian values and social awareness.</p>
+  </section>
+
+  <section id="vision">
+    <h2>Our Vision</h2>
+    <p>To see the sustainable character development of school children into future leaders who are seasoned to be sensitive to social concerns in their communities.</p>
+  </section>
+
+  <section id="mission">
+    <h2>Our Mission</h2>
+    <p>To empower the next generation through school-based programmes that instil leadership values, community awareness, and social responsibility, guided by Christian principles.</p>
+  </section>
+
+  <section id="goals">
+    <h2>Our Goals</h2>
+    <ul>
+      <li>Establish long-term partnerships with schools.</li>
+      <li>Facilitate Interact Clubs for leadership and social awareness.</li>
+      <li>Develop proactive, socially-conscious young citizens.</li>
+      <li>Promote a culture of service and ethical leadership.</li>
+    </ul>
+  </section>
+
+  <section id="founder">
+    <h2>Our Founder</h2>
+    <p>Angel Banda, a proud graduate of Great Hood Academy, is the visionary behind The Right Hand Outreach Initiative. Inspired by her Christian faith and compassion for the underprivileged, she leads the organisation with dedication and purpose.</p>
+  </section>
+
+  <section id="get-involved">
+    <h2>Get Involved</h2>
+    <p>Whether you're a school, parent, educator, donor, or volunteer — join us in raising a generation that leads with compassion and serves with strength.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 The Right Hand Outreach Initiative | Designed with purpose</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#vision">Vision</a>
+      <a href="#mission">Mission</a>
+      <a href="#get-involved">Get Involved</a>
+    </nav>
+  </footer>
+</body>
+</html>
